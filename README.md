@@ -17,20 +17,11 @@ I'm an Informatics student at Jenderal Soedirman University, passionate about ex
 
 ---
 
-### 🚀 Fokus Belajar Saat Ini
-- Web Development dengan PHP dan Flask
-- Cybersecurity dasar dan pemahaman serangan
-- Linked List dan struktur data lain dengan C
-- Robotik untuk persiapan lomba
-
----
-
-### 📌 Project yang Menarik untuk Dilihat
-- Sistem pembelian tiket bola (Landing Page + Backend sederhana)
-- Program struktur data Linked List dengan C
-- Automation sederhana keamanan
-- Project robotik riset kampus
-
+### 🚀 Current Learning Focus
+- Web Development with PHP and Flask
+- Fundamental Cybersecurity
+- Data Structures
+- Robotics for ABU Robocon
 
 ---
 
@@ -41,6 +32,6 @@ I'm an Informatics student at Jenderal Soedirman University, passionate about ex
 ---
 
 ### 🌐 Connect
-📩 Email: masyendiputra@gmail.com 
+📩 Email: masyendiputra@gmail.com
 
-Terima kasih sudah mampir!
+Thanks for visiting!
