@@ -1,6 +1,6 @@
 ## Hi, I'm Ezra 👋
 
-Mahasiswa Informatika yang suka ngulik Web Development, Cybersecurity, Struktur Data dengan C, dan Robotik. Aku suka belajar dengan praktik langsung dan bikin project kecil untuk ngeuji konsep yang dipelajari.
+I'm an Informatics student at Jenderal Soedirman University, passionate about exploring and experimenting with Web Development, Cybersecurity, Data Structures, and Robotics.
 
 ---
 
