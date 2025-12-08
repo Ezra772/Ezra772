@@ -18,20 +18,21 @@ I'm an Informatics student at Jenderal Soedirman University, passionate about ex
 ---
 
 ### 🚀 Current Learning Focus
-- Web Development with PHP and Flask
-- Fundamental Cybersecurity
-- Data Structures
-- Robotics for ABU Robocon
+- Web Development with PHP and Flask  
+- Fundamental Cybersecurity  
+- Data Structures  
+- Robotics for ABU Robocon  
 
 ---
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ezra772&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra772&layout=compact&theme=tokyonight)
+![Ezra's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ezra772&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ezra772&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect
-📩 Email: masyendiputra@gmail.com
+📩 Email: **masyendiputra@gmail.com**
 
-Thanks for visiting!
+Thanks for visiting! 👋
